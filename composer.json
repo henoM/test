@@ -1,0 +1,9 @@
+{
+   "autoload": {
+    "psr-4": {
+      "App\\":"Logic/Effects/",
+      "File\\":"Logic/Files/",
+      "Main\\":"Logic/Main/"
+    }
+  }
+}
